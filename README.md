@@ -48,5 +48,10 @@ Input → Process → Output
 - System design thinking
 - Enterprise process modeling
 - Approval systems
+
+## Project Structure
+
+- /docs → System architecture and workflow design
+- /diagrams → System flow representation
 - Data structuring
 - Analytics integration
